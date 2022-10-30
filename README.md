@@ -1,5 +1,5 @@
 
-# Sankat Sahara
+# Damsel-undistressed
 
 People can use ResNet-50 powered calamity prediction software to prepare themselves for upcomming challanges. It serves as a proper platform to volunteer to help and serve our community, donate to the areas affected by natural disaster by just filling a form along with interface to lodge a missing report of people who went missing during the calamity and help then re-unite with their dear ones. The on site mentioned precautions help to spread awareness and the news section keeps people updated about recent disasters. 
 
